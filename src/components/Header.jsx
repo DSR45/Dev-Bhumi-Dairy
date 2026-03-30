@@ -68,7 +68,7 @@ const menuLinks = [
         <div className="flex items-center gap-3">
           <img src={logoImage} alt="Dev Bhumi Dairy Logo" className="h-20 bg-white" />
           <span className={`text-xl font-bold tracking-tight transition-colors duration-300 ${textColor}`}>
-            Bhola Dairy
+            Dev Bhumi Dairy
           </span>
         </div>
         <div className="flex items-center gap-4">

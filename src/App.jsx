@@ -8,7 +8,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <BrowserRouter basename="/Dev-Bhumi-Dairy">
+    <BrowserRouter basename="/Dev-Bhumi-Dairy/">
       <div className="min-h-screen flex flex-col w-full bg-white text-gray-800">
         <Header />
 

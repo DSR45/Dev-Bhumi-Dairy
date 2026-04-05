@@ -13,7 +13,7 @@ const Home = () => {
         }}
       >
         <div className="absolute inset-0 bg-black/40" />
-        <div className="container relative z-10 text-white text-center">
+        <div className="container relative z-10 text-blue text-center">
           <p className="text-sm font-semibold uppercase tracking-widest">100% farm fresh dairy</p>
           <h1 className="mt-4 text-3xl md:text-5xl font-extrabold">Dev Bhumi Dairy</h1>
           <p className="mt-3 text-base md:text-lg max-w-2xl mx-auto">

@@ -1,5 +1,5 @@
 
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { BrowserRouter, Routes, Route} from 'react-router-dom';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import Home from './pages/Home';
@@ -8,7 +8,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <BrowserRouter basename="/Dev-Bhumi-Dairy/">
+    <BrowserRouter>
       <div className="min-h-screen flex flex-col w-full bg-white text-gray-800">
         <Header />
 
